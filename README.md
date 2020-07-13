@@ -1,4 +1,5 @@
 # Reviewer-recommendation-by-experience-and-affinity
+<pre>
 Reviewer recommendation by experience and affinity
 This Final Master's Project proposes a solution to the paper reviewer proposal required by the Peer Review process specifically accepted by the academic sector. 
 The work of the IJIMAI magazine to propose suitable papers to the collaborators is becoming increasingly complex due to the growing amount of articles they are 
@@ -85,3 +86,4 @@ Carga de trabajo --> Workload
 Revisor en proceso de revisión --> Reviewer in review process
 Alineación editorial --> Editorial lineup
 Estilo de revisión --> Review style
+</pre>
